@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">OptionsMenuDemo</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="copy">Copy</string>
+    <string name="copy_image_link">Copy Image Link</string>
+    <string name="download">Download</string>
+    
+    <string-array name="foodItems">
+        <item>Pohe</item>
+        <item>Upma</item>
+        <item>Pav Bhaji</item>
+        <item>Vada Pav</item>
+        <item>Idli</item>
+    </string-array>
+
+    <integer name="Ten">10</integer>
+
+    <integer-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
 </resources>
